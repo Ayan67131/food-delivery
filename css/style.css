@@ -2,3 +2,8 @@
     width: 144px;
     height: 180px;
 }
+.login-details{
+    height: 50%;
+    width: 50%;
+    position: absolute;
+}
